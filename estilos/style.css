@@ -1,0 +1,18 @@
+body{background-color: mediumpurple;
+font-family:Tahoma;color: rebeccapurple;
+font-size: 18px;line-height: 1.5;
+}
+
+body h1{color: aliceblue; border: 2px solid ;text-align: center;}
+body h2{color: aliceblue; text-align: center;}
+body h3{color: brown;}
+
+body img {margin: 10px auto;
+display: block;}
+
+body p {text-align: justify;}
+
+aside h3{color: yellow;}
+aside [href]{color: yellow;}
+
+body footer{text-align: right; color: aliceblue;}
